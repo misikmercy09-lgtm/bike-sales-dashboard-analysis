@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyzes customer demographic data to identify factors influencing bicycle purchasing decisions.
+This project analyzes customer demographic data to identify factors that influence bicycle purchasing decisions.
 
-The analysis was conducted using Microsoft Excel through data cleaning, pivot tables, charts, and an interactive dashboard.
+The analysis was performed using Microsoft Excel through data cleaning, pivot tables, data visualization, and dashboard development.
 
 ## Dashboard Preview
 
@@ -12,15 +12,89 @@ The analysis was conducted using Microsoft Excel through data cleaning, pivot ta
 
 ## Business Problem
 
-A bicycle retailer wants to understand which customer groups are most likely to purchase bicycles.
+A bicycle retailer wants to understand which customer groups are more likely to purchase bicycles.
 
-The goal is to identify trends related to:
+The objective is to uncover patterns related to customer demographics and purchasing behavior that can support business decision-making.
 
-- Income
-- Age
+## Dataset Information
+
+The dataset contains customer information including:
+
 - Gender
-- Commute Distance
+- Marital Status
+- Income
 - Education
 - Occupation
+- Number of Cars
+- Home Ownership
+- Commute Distance
+- Region
+- Age
+- Bike Purchase Status
 
-to support better marketing and sales decisions.
+## Data Cleaning Process
+
+The following data preparation steps were performed:
+
+- Checked for duplicate records
+- Standardized categorical values
+- Created Age Bracket categories
+- Verified data consistency
+- Prepared data for Pivot Table analysis
+
+## Analysis Performed
+
+### Income Analysis
+
+Examined the relationship between customer income and bike purchases.
+
+### Age Analysis
+
+Grouped customers into age brackets to identify purchasing trends.
+
+### Commute Distance Analysis
+
+Analyzed how commute distance affects purchasing decisions.
+
+### Gender Analysis
+
+Compared purchasing behavior across genders.
+
+## Dashboard Features
+
+- Interactive slicers
+- Pivot tables
+- Pivot charts
+- KPI tracking
+- Dynamic filtering
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- Pivot Tables
+- Business Analysis
+- Microsoft Excel
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Project Files
+
+- Raw Dataset
+- Cleaned Dataset
+- Pivot Table Analysis
+- Interactive Dashboard
+
+## Author
+
+Mercy
+
+
